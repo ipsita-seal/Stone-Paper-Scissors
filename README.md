@@ -5,7 +5,7 @@ Features:
 - Random computer choices
 - Score tracking
 - Option to exit the game
-How to Run the code:
+# To run the code:
 1. Run the Python file.
 2. Enter R for Rock, P for Paper, S for Scissors.
 3. Press E to exit the game.
