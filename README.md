@@ -1,5 +1,6 @@
 # Rock-Paper-Scissors
 This is a simple command-line Rock Paper Scissors game written in Python.
+
 Features:
 - User vs Computer gameplay
 - Random computer choices
